@@ -23,10 +23,10 @@ It aims to reduce power consumption by controlling light intensity intelligently
 - Energy efficiency is achieved by selective illumination.
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](circuit/circuit_diagram.jpg)
+![Circuit Diagram](circuit/circuit_diagram.jpeg)
 
 ##  Programming Language
-- Embedded C / C++ (Arduino)
+- C++ (Arduino)
 
 ## Learning Outcomes
 - Sensor interfacing  
